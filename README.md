@@ -1,2 +1,2 @@
 # CNN-experiments
-Exploring Hyper-parameter Tuning &amp; Model Architecture to better understand intuition of 
+Exploring Hyper-parameter Tuning &amp; Model Architecture to better understand intuition of hyperparmeter selection and model architecture selection
